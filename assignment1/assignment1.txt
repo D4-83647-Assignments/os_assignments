@@ -1,0 +1,121 @@
+ 1999  man man
+ 2000  uname
+ 2001  pwd
+ 2002  hostname
+ 2003  date
+ 2004  cal
+ 2005  ncal
+ 2006  cal
+ 2007  ls
+ 2008  dir
+ 2009  pwd
+ 2010  clear
+ 2011  man
+ 2012  clear
+ 2013  man man
+ 2014  uname
+ 2015  pwd
+ 2016  hostname
+ 2017  date
+ 2018  cal
+ 2019  ls
+ 2020  dir
+ 2021  cat assignment1.txt
+ 2022  cat > assignment1.txt
+ 2023  cat >> assignment1.txt 
+ 2024  cp assignment1.txt /home/sunbeam/Documents/Git Hub Repository/Assignement_archive/
+ 2025  cp assignment1.txt /home/sunbeam/Documents/Git Hub Repository/Assignement_archive
+ 2026  cp assignment1.txt /home/sunbeam/Documents/Git_Hub_Repository/Assignement_archive/
+ 2027  cd /home/sunbeam/Documents/Git_Hub_Repository/Assignement_archive/
+ 2028  ls
+ 2029  mv assignment1.txt /home/sunbeam/Documents/Git_Hub_Repository/assignment_work/
+ 2030  cd /home/sunbeam/Documents/Git_Hub_Repository/assignment_work/
+ 2031  mv assignment1.txt ass1.txt
+ 2032  tac ass1.txt 
+ 2033  rev ass1.txt 
+ 2034  wc ass1.txt 
+ 2035  ls
+ 2036  cd os_assignments/
+ 2037  ls
+ 2038  cd ../
+ 2039  ls
+ 2040  cd Archive\ self/
+ 2041  ls
+ 2042  cd .//
+ 2043  cd ../
+ 2044  ls
+ 2045  mv ass1.txt Archive\ self/
+ 2046  mkdir Archive\ self/test/
+ 2047  cd Archive\ self/
+ 2048  ls
+ 2049  mv ass1.txt test/
+ 2050  ls
+ 2051  cd /test
+ 2052  cd test/
+ 2053  ls
+ 2054  rm ass1.txt 
+ 2055  cd ../
+ 2056  rmdir test/
+ 2057  cd ../
+ 2058  ;s
+ 2059  ls
+ 2060  cd os_assignments/
+ 2061  ls
+ 2062  touch assignment1.txt 
+ 2063  ls -l
+ 2064  ls -l assignment1.txt 
+ 2065  ls -l -i assignment1.txt 
+ 2066  .
+ 2067  ./
+ 2068  cd ../
+ 2069  sort
+ 2070  ls sort
+ 2071  man ls
+ 2072  ls -
+ 2073  ls -S
+ 2074  man ls
+ 2075  ls -l -i -S
+ 2076  ls -l uniq
+ 2077  man ls
+ 2078  ls -S uniq
+ 2079  man cat
+ 2080  man uniq
+ 2081  ls
+ 2082  cd os_assignments/
+ 2083  ls -l assignment1.txt 
+ 2084  ls -l -i assignment1.txt 
+ 2085  uniq assignment1.txt 
+ 2086  cat assignment1.txt 
+ 2087  uniq -s assignment1.txt 
+ 2088  man uniq
+ 2089  uniq -u assignment1.txt 
+ 2090  uniq assignment1.txt 
+ 2091  man head
+ 2092  head --lines-15
+ 2093  head --help
+ 2094  head assignment1.txt 
+ 2095  tail --help
+ 2096  tail assignment1.txt
+ 2097  factor 
+ 2098  alias --help
+ 2099  alias
+ 2100  alias clear=c
+ 2101  alias
+ 2102  c
+ 2103  unalias --help
+ 2104  unalias c
+ 2105  unalias clear
+ 2106  unalias
+ 2107  alias
+ 2108  echo
+ 2109  echo 
+ 2110  echo $VAR
+ 2111  echo $PATH
+ 2112  ps
+ 2113  kill --help
+ 2114  env
+ 2115  kill 9720
+ 2116  kill --help
+ 2117  env --help
+ 2118  history
+
