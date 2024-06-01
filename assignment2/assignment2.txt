@@ -1,0 +1,134 @@
+2000  cd echo $HOME
+ 2001  $HOME
+ 2002  cd $HOME
+ 2003  man ls
+ 2004  ls 
+ 2005  ls -l
+ 2006  ls -l | sort -t
+ 2007  ls -l -t
+ 2008  ls -l -i
+ 2009  ps 
+ 2010  ls -l -S
+ 2011  ls -l -S -h
+ 2012  ls -l -s
+ 2013  ls -l ls
+ 2014  ls -l is
+ 2015  man ls
+ 2016  ls -l -d
+ 2017  man tree
+ 2018  tree
+ 2019  snap info tree
+ 2020  sudo apt install tree
+ 2021  tree ls -l
+ 2022  man tree
+ 2023  tree -a
+ 2024  tree -R
+ 2025  man tree
+ 2026  tree 
+ 2027  pwd
+ 2028  cd Documents/
+ 2029  cd CDAC _Archive/
+ 2030  pwd
+ 2031  ls
+ 2032  ls -s
+ 2033  ls -l
+ 2034  cd CDAC_Archive/
+ 2035  tree 
+ 2036  pwd
+ 2037  cd ../
+ 2038  ls
+ 2039  cd CDAC_Resources/
+ 2040  ls
+ 2041  mkdir os
+ 2042  cat > os/personal.txt
+ 2043  cat os/personal.txt 
+ 2044  cat > os/personal.txt 
+ 2045  cat os/personal.txt 
+ 2046  cat > os/personal.txt 
+ 2047  cat >> os/personal.txt 
+ 2048  cat os/personal.txt 
+ 2049  cd os/
+ 2050  touch personal.txt 
+ 2051  ls -l -R
+ 2052  mkdir one
+ 2053  cd one
+ 2054  touch 1.txt 11.txt 111.txt
+ 2055  mkdir two
+ 2056  touch 2.txt 22.txt 222.txt
+ 2057  mkdir three
+ 2058  touch 3.txt 33.txt 333.txt
+ 2059  mkdir four
+ 2060  touch 4.txt 44.txt 444.txt
+ 2061  mkdir five
+ 2062  touch 5.txt 55.txt 555.txt
+ 2063  cd ~
+ 2064  tree /home/sunbeam/Documents/CDAC_Resources/os/
+ 2065  cd /home/sunbeam/Documents/CDAC_Resources/os/
+ 2066  ls -s
+ 2067  ls -l
+ 2068  rmdir one/
+ 2069  man rmdir
+ 2070  man rm
+ 2071  rm -r one
+ 2072  tree
+ 2073  ls -l | tree
+ 2074  mkdir one
+ 2075  cd one
+ 2076  touch 1.txt 11.txt 111.txt
+ 2077  mkdir two
+ 2078  cd two/
+ 2079  touch 2.txt 22.txt 222.txt
+ 2080  mkdir three
+ 2081  cd
+ 2082  cd ../
+ 2083  cd /home/sunbeam/Documents/CDAC_Resources/os/
+ 2084  cd one/two/three/
+ 2085  touch 3.txt 33.txt 333.txt
+ 2086  mkdir four
+ 2087  cd four
+ 2088  4.txt 44.txt 444.txt
+ 2089  touch 4.txt 44.txt 444.txt
+ 2090  mkdir five
+ 2091  cd five/
+ 2092  touch 5.txt 55.txt 555.txt
+ 2093  cd ../
+ 2094  cd
+ 2095  pwd
+ 2096  ls -l Documents/CDAC_Resources/os/one/two/three/four/five/
+ 2097  cat > Documents/CDAC_Resources/os/one/two/three/four/44.txt 
+ 2098  rm Documents/CDAC_Resources/os/one/two/three/four/five/555.txt 
+ 2099  ls -l Documents/CDAC_Resources/os/one/two/three/four/five/
+ 2100  cd Documents/CDAC_Resources/os/one/two/three/four/five/ 
+ 2101  cat > /home/sunbeam/Documents/CDAC_Resources/os/one/two/three/3.txt 
+ 2102  cat /home/sunbeam/Documents/CDAC_Resources/os/one/two/three/3.txt 
+ 2103  ls -l /home/sunbeam/Documents/CDAC_Resources/os/one/two/
+ 2104  rm  /home/sunbeam/Documents/CDAC_Resources/os/one/two/222.txt 
+ 2105  ls -l /home/sunbeam/Documents/CDAC_Resources/os/one/two/
+ 2106  cd Documents/CDAC_Resources/os/one/
+ 2107  cd /home/sunbeam/Documents/CDAC_Resources/os/one/
+ 2108  rm -r /home/sunbeam/Documents/CDAC_Resources/os/one/two/three/four/five/
+ 2109  ls -l /home/sunbeam/Documents/CDAC_Resources/os/one/two/three/four/five/
+ 2110  ls -l /home/sunbeam/Documents/CDAC_Resources/os/one/two/three/four/
+ 2111  rm /home/sunbeam/Documents//CDAC_Resources/os/one/two/three/four/
+ 2112  rm -r /home/sunbeam/Documents//CDAC_Resources/os/one/two/three/four/
+ 2113  rm /home/sunbeam/Documents//CDAC_Resources/os/one/two/three/
+ 2114  ls -l /home/sunbeam/Documents//CDAC_Resources/os/one/two/three/
+ 2115  cd ~
+ 2116  man touch
+ 2117  touch -a -t  /home/sunbeam/Documents//CDAC_Resources/os/one/two/three/3.txt 
+ 2118  man touch
+ 2119  touch -a /home/sunbeam/Documents//CDAC_Resources/os/one/two/three/3.txt 
+ 2120  touch /home/sunbeam/Documents//CDAC_Resources/os/one/two/three/3.txt 
+ 2121  ls -l  /home/sunbeam/Documents//CDAC_Resources/os/one/two/three/3.txt 
+ 2122  ls -l  /home/sunbeam/Documents//CDAC_Resources/os/one/two/three/ 
+ 2123  ls
+ 2124  cd Documents/
+ 2125  pwd
+ 2126  ls
+ 2127  cd Git_Hub_Repository/
+ 2128  ls
+ 2129  cd assignment_work/
+ 2130  cd os_assignments/
+ 2131  cat > assignment2.txt
+ 2132  history
+
