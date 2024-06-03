@@ -1,0 +1,317 @@
+1770  ls 
+ 1771  ls -l
+ 1772  ls -l | sort -t
+ 1773  ls -l -t
+ 1774  ls -l -i
+ 1775  ps 
+ 1776  ls -l -S
+ 1777  ls -l -S -h
+ 1778  ls -l -s
+ 1779  ls -l ls
+ 1780  ls -l is
+ 1781  man ls
+ 1782  ls -l -d
+ 1783  man tree
+ 1784  tree
+ 1785  snap info tree
+ 1786  sudo apt install tree
+ 1787  tree ls -l
+ 1788  man tree
+ 1789  tree -a
+ 1790  tree -R
+ 1791  man tree
+ 1792  tree 
+ 1793  pwd
+ 1794  cd Documents/
+ 1795  cd CDAC _Archive/
+ 1796  pwd
+ 1797  ls
+ 1798  ls -s
+ 1799  ls -l
+ 1800  cd CDAC_Archive/
+ 1801  tree 
+ 1802  pwd
+ 1803  cd ../
+ 1804  ls
+ 1805  cd CDAC_Resources/
+ 1806  ls
+ 1807  mkdir os
+ 1808  cat > os/personal.txt
+ 1809  cat os/personal.txt 
+ 1810  cat > os/personal.txt 
+ 1811  cat os/personal.txt 
+ 1812  cat > os/personal.txt 
+ 1813  cat >> os/personal.txt 
+ 1814  cat os/personal.txt 
+ 1815  cd os/
+ 1816  touch personal.txt 
+ 1817  ls -l -R
+ 1818  mkdir one
+ 1819  cd one
+ 1820  touch 1.txt 11.txt 111.txt
+ 1821  mkdir two
+ 1822  touch 2.txt 22.txt 222.txt
+ 1823  mkdir three
+ 1824  touch 3.txt 33.txt 333.txt
+ 1825  mkdir four
+ 1826  touch 4.txt 44.txt 444.txt
+ 1827  mkdir five
+ 1828  touch 5.txt 55.txt 555.txt
+ 1829  cd ~
+ 1830  tree /home/sunbeam/Documents/CDAC_Resources/os/
+ 1831  cd /home/sunbeam/Documents/CDAC_Resources/os/
+ 1832  ls -s
+ 1833  ls -l
+ 1834  rmdir one/
+ 1835  man rmdir
+ 1836  man rm
+ 1837  rm -r one
+ 1838  tree
+ 1839  ls -l | tree
+ 1840  mkdir one
+ 1841  cd one
+ 1842  touch 1.txt 11.txt 111.txt
+ 1843  mkdir two
+ 1844  cd two/
+ 1845  touch 2.txt 22.txt 222.txt
+ 1846  mkdir three
+ 1847  cd
+ 1848  cd ../
+ 1849  cd /home/sunbeam/Documents/CDAC_Resources/os/
+ 1850  cd one/two/three/
+ 1851  touch 3.txt 33.txt 333.txt
+ 1852  mkdir four
+ 1853  cd four
+ 1854  4.txt 44.txt 444.txt
+ 1855  touch 4.txt 44.txt 444.txt
+ 1856  mkdir five
+ 1857  cd five/
+ 1858  touch 5.txt 55.txt 555.txt
+ 1859  cd ../
+ 1860  cd
+ 1861  pwd
+ 1862  ls -l Documents/CDAC_Resources/os/one/two/three/four/five/
+ 1863  cat > Documents/CDAC_Resources/os/one/two/three/four/44.txt 
+ 1864  rm Documents/CDAC_Resources/os/one/two/three/four/five/555.txt 
+ 1865  ls -l Documents/CDAC_Resources/os/one/two/three/four/five/
+ 1866  cd Documents/CDAC_Resources/os/one/two/three/four/five/ 
+ 1867  cat > /home/sunbeam/Documents/CDAC_Resources/os/one/two/three/3.txt 
+ 1868  cat /home/sunbeam/Documents/CDAC_Resources/os/one/two/three/3.txt 
+ 1869  ls -l /home/sunbeam/Documents/CDAC_Resources/os/one/two/
+ 1870  rm  /home/sunbeam/Documents/CDAC_Resources/os/one/two/222.txt 
+ 1871  ls -l /home/sunbeam/Documents/CDAC_Resources/os/one/two/
+ 1872  cd Documents/CDAC_Resources/os/one/
+ 1873  cd /home/sunbeam/Documents/CDAC_Resources/os/one/
+ 1874  rm -r /home/sunbeam/Documents/CDAC_Resources/os/one/two/three/four/five/
+ 1875  ls -l /home/sunbeam/Documents/CDAC_Resources/os/one/two/three/four/five/
+ 1876  ls -l /home/sunbeam/Documents/CDAC_Resources/os/one/two/three/four/
+ 1877  rm /home/sunbeam/Documents//CDAC_Resources/os/one/two/three/four/
+ 1878  rm -r /home/sunbeam/Documents//CDAC_Resources/os/one/two/three/four/
+ 1879  rm /home/sunbeam/Documents//CDAC_Resources/os/one/two/three/
+ 1880  ls -l /home/sunbeam/Documents//CDAC_Resources/os/one/two/three/
+ 1881  cd ~
+ 1882  man touch
+ 1883  touch -a -t  /home/sunbeam/Documents//CDAC_Resources/os/one/two/three/3.txt 
+ 1884  man touch
+ 1885  touch -a /home/sunbeam/Documents//CDAC_Resources/os/one/two/three/3.txt 
+ 1886  touch /home/sunbeam/Documents//CDAC_Resources/os/one/two/three/3.txt 
+ 1887  ls -l  /home/sunbeam/Documents//CDAC_Resources/os/one/two/three/3.txt 
+ 1888  ls -l  /home/sunbeam/Documents//CDAC_Resources/os/one/two/three/ 
+ 1889  ls
+ 1890  cd Documents/
+ 1891  pwd
+ 1892  ls
+ 1893  cd Git_Hub_Repository/
+ 1894  ls
+ 1895  cd assignment_work/
+ 1896  cd os_assignments/
+ 1897  cat > assignment2.txt
+ 1898  history
+ 1899  mkdir assignment3/
+ 1900  cd assignment3/
+ 1901  cat > assignment3.txt
+ 1902  man ls
+ 1903  cd ../
+ 1904  cd assignment_work/
+ 1905  cd os_assignments/
+ 1906  ls -a
+ 1907  ls -A
+ 1908  cd ../
+ 1909  ls
+ 1910  cd CDAC_Resources/os/
+ 1911  ls
+ 1912  cd one.
+ 1913  cd one/
+ 1914  rename *txt *htm
+ 1915  man rename
+ 1916  mv *.txt *.htm
+ 1917  mv *.txt .htm
+ 1918  rename *.txt .htm
+ 1919  rename(*txt, .htm)
+ 1920  mv .txt .htm
+ 1921  mv 1.txt 11.txt 111.txt 1.htm 11.htm 111.htm
+ 1922  mv 1.txt 1.htm
+ 1923  ls
+ 1924  ln -s two/three/3.txt 
+ 1925  ls
+ 1926  ln two/three/3.txt 
+ 1927  ln two/three/33.txt 
+ 1928  ls -l
+ 1929  ls
+ 1930  lscpu
+ 1931  clear
+ 1932  lscpu
+ 1933  clear
+ 1934  stat two/three/33.txt
+ 1935  touch two/three/33.txt
+ 1936  stat two/three/33.txt
+ 1937  touch empty.txt
+ 1938  cat > empty.txt 
+ 1939  tail -n 5 empty.txt 
+ 1940  init 0
+ 1941  cd /home/sunbeam/Documents/CDAC_Resources/os/
+ 1942  whoami
+ 1943  man whoami
+ 1944  tty
+ 1945  who am i
+ 1946  man who am i
+ 1947  users
+ 1948  who
+ 1949  ls
+ 1950  ls one/
+ 1951  cat one/empty.txt
+ 1952  grep "at"
+ 1953  grep "at" one/empty.txt 
+ 1954  cd one/
+ 1955  grep "^at" empty.txt 
+ 1956  grep "at$" empty.txt 
+ 1957  grep "^at$" empty.txt
+ 1958  grep "*at" empty.txt 
+ 1959  egrep "at?" empty.txt 
+ 1960  cat >> empty.txt 
+ 1961  fgrep "/*at" empty.txt 
+ 1962  fgrep "\*at" empty.txt 
+ 1963  fgrep "\*a" empty.txt 
+ 1964  fgrep "*a" empty.txt 
+ 1965  fgrep "*at" empty.txt 
+ 1966  chmod empty.txt
+ 1967  chmod r-- empty.txt 
+ 1968  chmod --r empty.txt
+ 1969  chmod 4 empty.txt 
+ 1970  ls -l
+ 1971  chmod 444 empty.txt 
+ 1972  ls -l
+ 1973  chmod 777 empty.txt 
+ 1974  ls -l
+ 1975  cat empty.txt | wc two/2.txt 
+ 1976  cat two/2.txt 
+ 1977  wc empty.txt | cat >> two/2.txt 
+ 1978  cat two/2.txt 
+ 1979  wc empty.txt 
+ 1980  cat empty.txt 
+ 1981  who wc
+ 1982  wc who
+ 1983  who 
+ 1984  who wc
+ 1985  who | wc
+ 1986  head -n {5,10} empty.txt 
+ 1987  head -5 empty.txt | tail -5
+ 1988  head -5 empty.txt 
+ 1989  head -n 5 empty.txt
+ 1990  cat empty.txt 
+ 1991  head -5 empty.txt | head -5
+ 1992  man init 6
+ 1993  man chmod
+ 1994  man wc
+ 1995  man head
+ 1996  git pull
+ 1997  exit;
+ 1998  history
+ 1999  cls
+ 2000  clear
+ 2001  history
+ 2002  cd /home/sunbeam/Documents/CDAC_Resources/os/
+ 2003  ls
+ 2004  cat personal.txt
+ 2005  cd one/
+ 2006  head empty.txt | tail -n 5
+ 2007  cat empty.txt 
+ 2008  head empty.txt 
+ 2009  head -n 5
+ 2010  head empty.txt 
+ 2011  ls -l | grep "*d"
+ 2012  ls -l | greap "#d"
+ 2013  ls -l | grep "#d"
+ 2014  ls -l | grep "^d"
+ 2015  ls  | grep "^d"
+ 2016  head empty.txt | tail -n 5
+ 2017  head empty.txt | tail -n +5
+ 2018  cat empty.txt 
+ 2019  sort empty.txt 
+ 2020  sort empty.txt | uniq
+ 2021  uname
+ 2022  who am i
+ 2023  whoami
+ 2024  who 
+ 2025  who | grep "tty"
+ 2026  who | grep 
+ 2027  who | grep "tty2"
+ 2028  tty
+ 2029  who 
+ 2030  -
+ 2031  ~
+ 2032  cd ~
+ 2033  cd Documents/
+ 2034  CD CDAC_Resources/
+ 2035  cd CDAC_R
+ 2036  cd CDAC_Resources/
+ 2037  ls -S
+ 2038  ls -l -S
+ 2039  ls -l -S -r
+ 2040  ls -l | grep "#^d"
+ 2041  ls -l | grep "#d"
+ 2042  ls
+ 2043  ls | wc -l
+ 2044  ls -l | wc -l
+ 2045  ls -l
+ 2046  ls
+ 2047  ls -l | grep "[d-r]"
+ 2048  ls -l | grep "[d\-r]"
+ 2049  ls -l | egrep "[d-r]"
+ 2050  ls -l | egrep "^[d-r]"
+ 2051  ls -l | grep "^{d,-r}"
+ 2052  ls -l | grep -E '^d'
+ 2053  ls -l | grep -E '^[d-]'
+ 2054  ls -l | grep -E '^[d-]' | wc 
+ 2055  ls -l | grep -E '^[d-]' | wc -l
+ 2056  ls -l -a | grep "^{.,..}
+
+ 2057  ls -l -a
+ 2058  ls -l -a | grep "^."
+ 2059  ls -l -a | grep "^\."
+ 2060  ls -l -a | fgrep "^."
+ 2061  ls -l -a | egrep "^."
+ 2062  ls -a | grep "^\."
+ 2063  pwd
+ 2064  dr
+ 2065  ls
+ 2066  cd os/one
+ 2067  cat empty.txt 
+ 2068  tr empty.txt 
+ 2069  tr "a-z" "A-Z" empty.txt 
+ 2070  cat empty.txt | tr 
+ 2071  cat empty.txt | tr "a-z" "A-Z"
+ 2072  cat empty.txt | tr -s " " ","
+ 2073  tr " " ","
+ 2074  tr -s  " " ","
+ 2075  who | grep '[^tty2 tty3 tty4]'
+ 2076  who | grep '^tty[2-4]'
+ 2077  who | grep -Ev "tty2|tty3|tty4"
+ 2078  ls -l
+ 2079  ls -l | tr " " ","
+ 2080  ls -l | tr " " "|"
+ 2081  ls -l | tr -s  " " "|"
+ 2082  ls -l | tr -s  " " "|" | cut -d "|" -f 5,8,9
+ 2083  ls -l | tr -s  " " "|" | cut -d "|" -s -f 5,8,9
+ 2084  history
+
