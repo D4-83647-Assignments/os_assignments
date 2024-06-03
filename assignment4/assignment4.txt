@@ -1,0 +1,22 @@
+ 1953  cat > data.txt
+ 1954  cat data.txt 
+ 1955  cat data.txt | wc 
+ 1956  cat data.txt | grep "files"
+ 1957  cat data.txt | grep "file"
+ 1958  cat data.txt | grep 
+ 1959  cat data.txt | grep "have"
+ 1960  cat data.txt | grep "^f"
+ 1961  cat data.txt | grep "\.$"
+ 1962  cat data.txt | head -n -2
+ 1963  cat data.txt | head -2
+ 1964  cat data.txt | head -3
+ 1965  cat data.txt | tail -3
+ 1966  cat data.txt | head -3 | tail -n -2
+ 1967  man head
+ 1968  cat data.txt | head -3 | tail -2
+ 1969  head -n 3 | tail -n 5
+ 1970  head -n 3 empty.txt | tail -n 5
+ 1971  head -n 3 data.txt | tail -n 5
+ 1972  head 3 data.txt | tail -n 5
+ 1973  head -3 data.txt | tail -n 5
+ 1974  head -n 5 data.txt | tail -n +3
